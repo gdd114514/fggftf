@@ -23,7 +23,7 @@ Notification.Notify("贝利鸭脚本", "准备好了", "rbxassetid://10483855823
 
 local Window = OrionLib:MakeWindow({Name = "猫猫军团", HidePremium = false, IntroEnabled = false, ConfigFolder = false})
 local Tab = Window:MakeTab({
-	Name = "公告-猫猫军团私人脚本新鲜出炉",
+	Name = "公告-猫猫军团私人脚本",
 	Icon = "rbxassetid://3610239960",
 	PremiumOnly = false
 })
